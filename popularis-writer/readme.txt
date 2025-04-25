@@ -2,9 +2,9 @@
 Contributors: Themes4WP
 Tags: one-column, two-columns, full-width-template, right-sidebar, custom-background, custom-menu, editor-style, featured-images, translation-ready, custom-logo, threaded-comments, footer-widgets, blog, e-commerce
 Requires at least: 4.4
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 Requires PHP: 5.4
-Tested up to: 6.1
+Tested up to: 6.8
 License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -58,6 +58,9 @@ source: https://stocksnap.io/photo/41OTX8QXSK
 * Images used in this theme (including the screenshot.png) are distributed under GPL v3 license - http://www.gnu.org/licenses/gpl-3.0.txt.
 
 == Changelog ==
+
+= Version 1.0.3 =
+* Tested and tagged with WP 6.8
 
 = Version 1.0.2 =
 * Tested with WP 6.1
